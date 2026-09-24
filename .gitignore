@@ -1,0 +1,12 @@
+# Результаты публикации
+publish/
+
+# Локальные файлы базы данных
+*.db
+*.db-shm
+*.db-wal
+*.mdf
+*.ldf
+
+TranslationBureau.Web/bin
+TranslationBureau.Web/obj

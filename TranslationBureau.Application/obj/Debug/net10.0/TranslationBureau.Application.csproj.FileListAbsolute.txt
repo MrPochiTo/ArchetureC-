@@ -1,0 +1,15 @@
+D:\Arqutechure\work\TranslationBureau.Application\bin\Debug\net10.0\TranslationBureau.Application.deps.json
+D:\Arqutechure\work\TranslationBureau.Application\bin\Debug\net10.0\TranslationBureau.Application.dll
+D:\Arqutechure\work\TranslationBureau.Application\bin\Debug\net10.0\TranslationBureau.Application.pdb
+D:\Arqutechure\work\TranslationBureau.Application\bin\Debug\net10.0\TranslationBureau.Domain.dll
+D:\Arqutechure\work\TranslationBureau.Application\bin\Debug\net10.0\TranslationBureau.Domain.pdb
+D:\Arqutechure\work\TranslationBureau.Application\obj\Debug\net10.0\TranslationBureau.Application.csproj.AssemblyReference.cache
+D:\Arqutechure\work\TranslationBureau.Application\obj\Debug\net10.0\TranslationBureau.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arqutechure\work\TranslationBureau.Application\obj\Debug\net10.0\TranslationBureau.Application.AssemblyInfoInputs.cache
+D:\Arqutechure\work\TranslationBureau.Application\obj\Debug\net10.0\TranslationBureau.Application.AssemblyInfo.cs
+D:\Arqutechure\work\TranslationBureau.Application\obj\Debug\net10.0\TranslationBureau.Application.csproj.CoreCompileInputs.cache
+D:\Arqutechure\work\TranslationBureau.Application\obj\Debug\net10.0\Translat.57F42DFA.Up2Date
+D:\Arqutechure\work\TranslationBureau.Application\obj\Debug\net10.0\TranslationBureau.Application.dll
+D:\Arqutechure\work\TranslationBureau.Application\obj\Debug\net10.0\refint\TranslationBureau.Application.dll
+D:\Arqutechure\work\TranslationBureau.Application\obj\Debug\net10.0\TranslationBureau.Application.pdb
+D:\Arqutechure\work\TranslationBureau.Application\obj\Debug\net10.0\ref\TranslationBureau.Application.dll

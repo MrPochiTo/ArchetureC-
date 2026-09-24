@@ -1,0 +1,11 @@
+D:\Arqutechure\work\TranslationBureau.Domain\bin\Release\net10.0\TranslationBureau.Domain.deps.json
+D:\Arqutechure\work\TranslationBureau.Domain\bin\Release\net10.0\TranslationBureau.Domain.dll
+D:\Arqutechure\work\TranslationBureau.Domain\bin\Release\net10.0\TranslationBureau.Domain.pdb
+D:\Arqutechure\work\TranslationBureau.Domain\obj\Release\net10.0\TranslationBureau.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arqutechure\work\TranslationBureau.Domain\obj\Release\net10.0\TranslationBureau.Domain.AssemblyInfoInputs.cache
+D:\Arqutechure\work\TranslationBureau.Domain\obj\Release\net10.0\TranslationBureau.Domain.AssemblyInfo.cs
+D:\Arqutechure\work\TranslationBureau.Domain\obj\Release\net10.0\TranslationBureau.Domain.csproj.CoreCompileInputs.cache
+D:\Arqutechure\work\TranslationBureau.Domain\obj\Release\net10.0\TranslationBureau.Domain.dll
+D:\Arqutechure\work\TranslationBureau.Domain\obj\Release\net10.0\refint\TranslationBureau.Domain.dll
+D:\Arqutechure\work\TranslationBureau.Domain\obj\Release\net10.0\TranslationBureau.Domain.pdb
+D:\Arqutechure\work\TranslationBureau.Domain\obj\Release\net10.0\ref\TranslationBureau.Domain.dll
